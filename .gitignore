@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 .cek_cepat/
 hasil_5fold.tmp
+/log_prompt.md

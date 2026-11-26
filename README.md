@@ -72,5 +72,3 @@ Pilih interpreter `.venv\Scripts\python.exe` lewat **Python: Select Interpreter*
 3. Ubah `PAKAI_AUG = False` dan simpan. Ulangi `train.py` lalu `test.py`.
 
 Tabel, log, dan grafik yang sudah tersedia dapat langsung dibuka di kedua folder hasil. Saat evaluasi tersimpan tersedia, `test.py` membacanya sesuai mode. Dataset dan checkpoint `.pt` disimpan secara lokal.
-
-Catatan penggunaan GenAI tersedia di [log_prompt.md](log_prompt.md).
