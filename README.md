@@ -1,4 +1,8 @@
-# Tugas 2 IPSD Klasifikasi Foto Kulit Mpox
+# Praktikum Minggu 10
+
+**Mata kuliah IPSD**
+
+Topik praktikum ini adalah klasifikasi foto kulit Mpox.
 
 ## Kelompok 1
 
