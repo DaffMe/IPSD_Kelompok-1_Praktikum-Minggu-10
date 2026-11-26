@@ -1,0 +1,112 @@
+Mulai: 2026-11-24 22:20:49 | komputer: DappMe | perangkat: NVIDIA GeForce RTX 2050 | torch: 2.8.0+cu128 | PAKAI_AUG = False | EPOCH = 20 | FOLDS = [1, 2, 3, 4, 5]
+=== FOLD 1: 537 gambar latih, 144 gambar validasi ===
+Fold 1 | epoch  1/20 | train loss = 1.7096 | valid loss = 1.6416
+Fold 1 | epoch  2/20 | train loss = 1.6348 | valid loss = 1.6285
+Fold 1 | epoch  3/20 | train loss = 1.6216 | valid loss = 1.6294
+Fold 1 | epoch  4/20 | train loss = 1.6122 | valid loss = 1.6215
+Fold 1 | epoch  5/20 | train loss = 1.5982 | valid loss = 1.6172
+Fold 1 | epoch  6/20 | train loss = 1.5832 | valid loss = 1.6111
+Fold 1 | epoch  7/20 | train loss = 1.5673 | valid loss = 1.6097
+Fold 1 | epoch  8/20 | train loss = 1.5498 | valid loss = 1.6004
+Fold 1 | epoch  9/20 | train loss = 1.5293 | valid loss = 1.5954
+Fold 1 | epoch 10/20 | train loss = 1.5064 | valid loss = 1.5864
+Fold 1 | epoch 11/20 | train loss = 1.4824 | valid loss = 1.6036
+Fold 1 | epoch 12/20 | train loss = 1.4648 | valid loss = 1.5767
+Fold 1 | epoch 13/20 | train loss = 1.4444 | valid loss = 1.5747
+Fold 1 | epoch 14/20 | train loss = 1.4212 | valid loss = 1.5774
+Fold 1 | epoch 15/20 | train loss = 1.4103 | valid loss = 1.5703
+Fold 1 | epoch 16/20 | train loss = 1.4081 | valid loss = 1.5923
+Fold 1 | epoch 17/20 | train loss = 1.3852 | valid loss = 1.5787
+Fold 1 | epoch 18/20 | train loss = 1.3532 | valid loss = 1.5713
+Fold 1 | epoch 19/20 | train loss = 1.3425 | valid loss = 1.5544
+Fold 1 | epoch 20/20 | train loss = 1.3203 | valid loss = 1.5863
+Fold 1 | epoch terbaik = 19 | valid loss = 1.5544
+=== FOLD 2: 509 gambar latih, 164 gambar validasi ===
+Fold 2 | epoch  1/20 | train loss = 1.7260 | valid loss = 1.6131
+Fold 2 | epoch  2/20 | train loss = 1.6543 | valid loss = 1.5716
+Fold 2 | epoch  3/20 | train loss = 1.6494 | valid loss = 1.5824
+Fold 2 | epoch  4/20 | train loss = 1.6408 | valid loss = 1.5709
+Fold 2 | epoch  5/20 | train loss = 1.6307 | valid loss = 1.5585
+Fold 2 | epoch  6/20 | train loss = 1.6203 | valid loss = 1.5564
+Fold 2 | epoch  7/20 | train loss = 1.6083 | valid loss = 1.5450
+Fold 2 | epoch  8/20 | train loss = 1.5920 | valid loss = 1.5386
+Fold 2 | epoch  9/20 | train loss = 1.5786 | valid loss = 1.5365
+Fold 2 | epoch 10/20 | train loss = 1.5609 | valid loss = 1.5193
+Fold 2 | epoch 11/20 | train loss = 1.5468 | valid loss = 1.5137
+Fold 2 | epoch 12/20 | train loss = 1.5282 | valid loss = 1.5152
+Fold 2 | epoch 13/20 | train loss = 1.5109 | valid loss = 1.4878
+Fold 2 | epoch 14/20 | train loss = 1.4918 | valid loss = 1.4710
+Fold 2 | epoch 15/20 | train loss = 1.4807 | valid loss = 1.4584
+Fold 2 | epoch 16/20 | train loss = 1.4677 | valid loss = 1.4595
+Fold 2 | epoch 17/20 | train loss = 1.4501 | valid loss = 1.4429
+Fold 2 | epoch 18/20 | train loss = 1.4278 | valid loss = 1.4571
+Fold 2 | epoch 19/20 | train loss = 1.4349 | valid loss = 1.4520
+Fold 2 | epoch 20/20 | train loss = 1.4109 | valid loss = 1.4452
+Fold 2 | epoch terbaik = 17 | valid loss = 1.4429
+=== FOLD 3: 538 gambar latih, 153 gambar validasi ===
+Fold 3 | epoch  1/20 | train loss = 1.7120 | valid loss = 1.7139
+Fold 3 | epoch  2/20 | train loss = 1.6300 | valid loss = 1.7455
+Fold 3 | epoch  3/20 | train loss = 1.6075 | valid loss = 1.7035
+Fold 3 | epoch  4/20 | train loss = 1.5927 | valid loss = 1.7302
+Fold 3 | epoch  5/20 | train loss = 1.5811 | valid loss = 1.7149
+Fold 3 | epoch  6/20 | train loss = 1.5692 | valid loss = 1.7088
+Fold 3 | epoch  7/20 | train loss = 1.5511 | valid loss = 1.6859
+Fold 3 | epoch  8/20 | train loss = 1.5325 | valid loss = 1.6800
+Fold 3 | epoch  9/20 | train loss = 1.5108 | valid loss = 1.6783
+Fold 3 | epoch 10/20 | train loss = 1.4987 | valid loss = 1.6825
+Fold 3 | epoch 11/20 | train loss = 1.4742 | valid loss = 1.6649
+Fold 3 | epoch 12/20 | train loss = 1.4461 | valid loss = 1.6529
+Fold 3 | epoch 13/20 | train loss = 1.4384 | valid loss = 1.6455
+Fold 3 | epoch 14/20 | train loss = 1.4204 | valid loss = 1.6644
+Fold 3 | epoch 15/20 | train loss = 1.4028 | valid loss = 1.6169
+Fold 3 | epoch 16/20 | train loss = 1.3836 | valid loss = 1.6197
+Fold 3 | epoch 17/20 | train loss = 1.3934 | valid loss = 1.6239
+Fold 3 | epoch 18/20 | train loss = 1.3523 | valid loss = 1.6085
+Fold 3 | epoch 19/20 | train loss = 1.3484 | valid loss = 1.5844
+Fold 3 | epoch 20/20 | train loss = 1.3614 | valid loss = 1.6027
+Fold 3 | epoch terbaik = 19 | valid loss = 1.5844
+=== FOLD 4: 524 gambar latih, 150 gambar validasi ===
+Fold 4 | epoch  1/20 | train loss = 1.7239 | valid loss = 1.6240
+Fold 4 | epoch  2/20 | train loss = 1.6361 | valid loss = 1.5952
+Fold 4 | epoch  3/20 | train loss = 1.6255 | valid loss = 1.5991
+Fold 4 | epoch  4/20 | train loss = 1.6119 | valid loss = 1.5843
+Fold 4 | epoch  5/20 | train loss = 1.6050 | valid loss = 1.5827
+Fold 4 | epoch  6/20 | train loss = 1.5894 | valid loss = 1.5752
+Fold 4 | epoch  7/20 | train loss = 1.5757 | valid loss = 1.5699
+Fold 4 | epoch  8/20 | train loss = 1.5609 | valid loss = 1.5584
+Fold 4 | epoch  9/20 | train loss = 1.5487 | valid loss = 1.5535
+Fold 4 | epoch 10/20 | train loss = 1.5243 | valid loss = 1.5420
+Fold 4 | epoch 11/20 | train loss = 1.5132 | valid loss = 1.5279
+Fold 4 | epoch 12/20 | train loss = 1.4887 | valid loss = 1.5649
+Fold 4 | epoch 13/20 | train loss = 1.4859 | valid loss = 1.5151
+Fold 4 | epoch 14/20 | train loss = 1.4597 | valid loss = 1.5089
+Fold 4 | epoch 15/20 | train loss = 1.4388 | valid loss = 1.5035
+Fold 4 | epoch 16/20 | train loss = 1.4156 | valid loss = 1.4963
+Fold 4 | epoch 17/20 | train loss = 1.4026 | valid loss = 1.4988
+Fold 4 | epoch 18/20 | train loss = 1.3776 | valid loss = 1.4867
+Fold 4 | epoch 19/20 | train loss = 1.3692 | valid loss = 1.5007
+Fold 4 | epoch 20/20 | train loss = 1.3505 | valid loss = 1.4743
+Fold 4 | epoch terbaik = 20 | valid loss = 1.4743
+=== FOLD 5: 538 gambar latih, 154 gambar validasi ===
+Fold 5 | epoch  1/20 | train loss = 1.7150 | valid loss = 1.6491
+Fold 5 | epoch  2/20 | train loss = 1.6411 | valid loss = 1.6543
+Fold 5 | epoch  3/20 | train loss = 1.6183 | valid loss = 1.6445
+Fold 5 | epoch  4/20 | train loss = 1.6057 | valid loss = 1.6427
+Fold 5 | epoch  5/20 | train loss = 1.5951 | valid loss = 1.6271
+Fold 5 | epoch  6/20 | train loss = 1.5855 | valid loss = 1.6231
+Fold 5 | epoch  7/20 | train loss = 1.5731 | valid loss = 1.6110
+Fold 5 | epoch  8/20 | train loss = 1.5533 | valid loss = 1.6037
+Fold 5 | epoch  9/20 | train loss = 1.5345 | valid loss = 1.6038
+Fold 5 | epoch 10/20 | train loss = 1.5202 | valid loss = 1.5933
+Fold 5 | epoch 11/20 | train loss = 1.5037 | valid loss = 1.5886
+Fold 5 | epoch 12/20 | train loss = 1.4682 | valid loss = 1.5729
+Fold 5 | epoch 13/20 | train loss = 1.4567 | valid loss = 1.5710
+Fold 5 | epoch 14/20 | train loss = 1.4360 | valid loss = 1.5802
+Fold 5 | epoch 15/20 | train loss = 1.4176 | valid loss = 1.5693
+Fold 5 | epoch 16/20 | train loss = 1.4015 | valid loss = 1.5707
+Fold 5 | epoch 17/20 | train loss = 1.4121 | valid loss = 1.5816
+Fold 5 | epoch 18/20 | train loss = 1.3696 | valid loss = 1.5613
+Fold 5 | epoch 19/20 | train loss = 1.3673 | valid loss = 1.5746
+Fold 5 | epoch 20/20 | train loss = 1.3881 | valid loss = 1.5599
+Fold 5 | epoch terbaik = 20 | valid loss = 1.5599
+Selesai: 2026-11-24 22:21:14 | durasi 0 menit 25 detik

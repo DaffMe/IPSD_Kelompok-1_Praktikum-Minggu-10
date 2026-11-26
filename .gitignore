@@ -1,0 +1,7 @@
+Dataset/
+*.pt
+*.zip
+__pycache__/
+.venv/
+.cek_cepat/
+hasil_5fold.tmp

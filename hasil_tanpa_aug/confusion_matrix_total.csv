@@ -1,0 +1,7 @@
+kelas_asli,Chickenpox,Cowpox,HFMD,Healthy,Measles,Monkeypox
+Chickenpox,2,0,3,2,0,35
+Cowpox,0,1,3,2,0,29
+HFMD,0,0,31,5,0,46
+Healthy,1,0,11,6,0,32
+Measles,1,0,15,1,0,13
+Monkeypox,5,1,7,1,0,111
