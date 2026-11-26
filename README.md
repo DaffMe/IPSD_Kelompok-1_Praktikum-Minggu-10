@@ -15,7 +15,7 @@ Topik praktikum ini adalah klasifikasi foto kulit Mpox.
 
 ## Video
 
-Tautan YouTube akan ditambahkan setelah rekaman diunggah.
+[Tonton video presentasi Praktikum Minggu 10 di YouTube](https://youtu.be/-432trrKJMk)
 
 ## Dataset dan metode
 
